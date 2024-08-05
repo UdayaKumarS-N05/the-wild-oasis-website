@@ -1,7 +1,10 @@
+export const metadata = {
+  title: "Guest Area",
+};
 function Page() {
   return (
     <div>
-      <h1>Account!</h1>
+      <h1>Welcome, Uday!</h1>
     </div>
   );
 }
